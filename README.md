@@ -1,3 +1,11 @@
+
+## ⚡️ Quick Facts
+- I worked as an AI R&D technical leader at [Asiabots](https://www.asiabots.com/), a voicebot startup.
+- I led and coached a champion-winning international [AI & Supercomputing competition](http://www.asc-events.net/StudentChallenge/index.html) team at CUHK
+- I founded my startup - [Flying Milk Tea](https://x.com/flyingmilktea).
+- My main expertise is in generative speech AI and NLP.
+- Worked on Cloud, Web, Sysadmin, MLOps, and Infrastructure previously.
+
 ## 🚀 Skills
 
 📋 Languages:
