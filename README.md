@@ -54,7 +54,7 @@
 
 💻 SysAdmin:
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![ArchLinux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=Debian&logoColor=fff&style=for-the-badge)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=Ansible&logoColor=fff&style=for-the-badge)
 ![Zfs](https://img.shields.io/badge/Zfs-2A667F?logo=OpenZFS&logoColor=fff&style=for-the-badge)
@@ -73,3 +73,12 @@
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+🚍 Daily Driver:
+
+![ArchLinux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
+![i3wm](https://img.shields.io/badge/i3wm-52C0FF?style=for-the-badge&logo=i3&logoColor=white)
+![40%Keeb](https://img.shields.io/badge/40%25%20Split%20Keeb-E2B714?logo=monkeytype&logoColor=fff&style=for-the-badge)
