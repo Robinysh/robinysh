@@ -1,10 +1,10 @@
 
 ## ⚡️ Quick Facts
-- I worked as an AI R&D technical leader at [Asiabots](https://www.asiabots.com/), a voicebot startup.
-- I led and coached a champion-winning international [AI & Supercomputing competition](http://www.asc-events.net/StudentChallenge/index.html) team at CUHK
-- I founded my startup - [Flying Milk Tea](https://x.com/flyingmilktea).
-- My main expertise is in generative speech AI and NLP.
-- Worked on Cloud, Web, Sysadmin, MLOps, and Infrastructure previously.
+- Worked as an AI R&D technical leader at [Asiabots](https://www.asiabots.com/), a voicebot startup.
+- Led and coached a champion-winning international [AI & Supercomputing competition](http://www.asc-events.net/StudentChallenge/index.html) team at CUHK
+- Founded my startup - [Flying Milk Tea](https://x.com/flyingmilktea).
+- Specialized in generative speech AI and NLP.
+- Experience includes Cloud, Web, Sysadmin, MLOps, and Infrastructure.
 
 ## 🚀 Skills
 
@@ -53,17 +53,19 @@
 
 🌐 Web Dev:
 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NextJS](https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
 💻 SysAdmin:
 
 ![ArchLinux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=Debian&logoColor=fff&style=for-the-badge)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=Ansible&logoColor=fff&style=for-the-badge)
 ![Zfs](https://img.shields.io/badge/Zfs-2A667F?logo=OpenZFS&logoColor=fff&style=for-the-badge)
 ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?logo=Ceph&logoColor=fff&style=for-the-badge)
@@ -77,7 +79,7 @@
 ![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
 ![i3wm](https://img.shields.io/badge/i3wm-52C0FF?style=for-the-badge&logo=i3&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -89,4 +91,4 @@
 ![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
 ![i3wm](https://img.shields.io/badge/i3wm-52C0FF?style=for-the-badge&logo=i3&logoColor=white)
-![40%Keeb](https://img.shields.io/badge/40%25%20Split%20Keeb-E2B714?logo=monkeytype&logoColor=fff&style=for-the-badge)
+![40%Keeb](https://img.shields.io/badge/Lily58-E2B714?logo=monkeytype&logoColor=fff&style=for-the-badge)
