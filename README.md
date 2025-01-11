@@ -1,5 +1,6 @@
 
 ## ⚡️ Quick Facts
+- Currently an MLE in ASR at [SoundHound](https://www.soundhound.com/)
 - Worked as an AI R&D technical leader at [Asiabots](https://www.asiabots.com/), a voicebot startup.
 - Led and coached a champion-winning international [AI & Supercomputing competition](http://www.asc-events.net/StudentChallenge/index.html) team at CUHK
 - Founded my startup - [Flying Milk Tea](https://x.com/flyingmilktea).
